@@ -1,0 +1,913 @@
+canonical_identifier: bkk:krp/KR5e0057/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5e0057/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 重陽分梨十化集
+  date: '2015-08-29 02:11:11.088498'
+  source:
+    repository: kanripo
+    path: KR5e0057
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5e0057_000-CK-KZ-jye.yaml, hash: 'sha256:9cb2d772ea07ebad3c05a6901d98f1e97823c6a0c6f3b6ba2089fb029ef943ee'}
+  - {seq: 1, filename: KR5e0057_001-CK-KZ-jye.yaml, hash: 'sha256:c37498343304d2d3047f7996715202bb19483f8c812cfc9f9926def6b4566835'}
+  - {seq: 2, filename: KR5e0057_002-CK-KZ-jye.yaml, hash: 'sha256:bbd760424f97a2cedb18f3f1dd2aa238cbb8cec13707f6013d9801829b115abe'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5e0057_000-CK-KZ-jye.markers.yaml, hash: 'sha256:70cb4840e5a896f99ceb942ab1e17fe3b025c820cd2f77f399e4e958895cf8f5'}
+  - {seq: 1, role: markers, filename: assets/KR5e0057_001-CK-KZ-jye.markers.yaml, hash: 'sha256:9cdb7957aa35b8cf7e268a8aefd509334bc06d694595ebe7fbf5d66956c5a6ac'}
+  - {seq: 2, role: markers, filename: assets/KR5e0057_002-CK-KZ-jye.markers.yaml, hash: 'sha256:f4e9fb569ddde587eed9a04bf72e9ddbaeb5544ae8d5f0a3a5eeb89e238423a4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5e0057_CK-KZ-jye_000-h1
+    span:
+    - body
+    - 0
+    - 711
+  label: 重陽分梨十化集序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 48
+  label: 水雲遊
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h3
+    span:
+    - body
+    - 48
+    - 96
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h4
+    span:
+    - body
+    - 96
+    - 124
+  label: 贈丹陽絕句
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h5
+    span:
+    - body
+    - 124
+    - 152
+  label: 丹陽次韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h6
+    span:
+    - body
+    - 152
+    - 200
+  label: 水雲遊
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h7
+    span:
+    - body
+    - 200
+    - 248
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h8
+    span:
+    - body
+    - 248
+    - 276
+  label: 贈丹陽夫婦
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h9
+    span:
+    - body
+    - 276
+    - 304
+  label: 丹陽次韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h10
+    span:
+    - body
+    - 304
+    - 332
+  label: 贈孫姑
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h11
+    span:
+    - body
+    - 332
+    - 388
+  label: 贈丹陽夫婦
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h12
+    span:
+    - body
+    - 388
+    - 444
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h13
+    span:
+    - body
+    - 444
+    - 472
+  label: 贈丹陽
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h14
+    span:
+    - body
+    - 472
+    - 500
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h15
+    span:
+    - body
+    - 500
+    - 556
+  label: 贈丹陽夫婦芋栗¶<md:KR5e0057_HFL_001-003b>
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h16
+    span:
+    - body
+    - 556
+    - 612
+  label: 丹陽又韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h17
+    span:
+    - body
+    - 612
+    - 660
+  label: 水雲遊¶<md:KR5e0057_HFL_001-004a>
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h18
+    span:
+    - body
+    - 660
+    - 708
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h19
+    span:
+    - body
+    - 708
+    - 748
+  label: 分梨詩
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h20
+    span:
+    - body
+    - 748
+    - 788
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h21
+    span:
+    - body
+    - 788
+    - 852
+  label: 爇心香
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h22
+    span:
+    - body
+    - 852
+    - 918
+  label: 丹陽次韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h23
+    span:
+    - body
+    - 918
+    - 974
+  label: 與丹陽
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h24
+    span:
+    - body
+    - 974
+    - 1030
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h25
+    span:
+    - body
+    - 1030
+    - 1094
+  label: 恣逍遙
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h26
+    span:
+    - body
+    - 1094
+    - 1158
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h27
+    span:
+    - body
+    - 1158
+    - 1186
+  label: 與丹陽
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h28
+    span:
+    - body
+    - 1186
+    - 1214
+  label: 丹陽次韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h29
+    span:
+    - body
+    - 1214
+    - 1270
+  label: 與丹陽
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h30
+    span:
+    - body
+    - 1270
+    - 1326
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h31
+    span:
+    - body
+    - 1326
+    - 1423
+  label: 神光燦
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h32
+    span:
+    - body
+    - 1423
+    - 1520
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h33
+    span:
+    - body
+    - 1520
+    - 1573
+  label: 與丹陽
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h34
+    span:
+    - body
+    - 1573
+    - 1626
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h35
+    span:
+    - body
+    - 1626
+    - 1728
+  label: 眞歡樂
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h36
+    span:
+    - body
+    - 1728
+    - 1830
+  label: 丹陽次韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h37
+    span:
+    - body
+    - 1830
+    - 1886
+  label: 與丹陽¶<md:KR5e0057_HFL_001-009a>
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h38
+    span:
+    - body
+    - 1886
+    - 1942
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h39
+    span:
+    - body
+    - 1942
+    - 2007
+  label: 爇心香¶<md:KR5e0057_HFL_001-009b>
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h40
+    span:
+    - body
+    - 2007
+    - 2073
+  label: 丹陽又韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h41
+    span:
+    - body
+    - 2073
+    - 2220
+  label: 與丹陽¶<md:KR5e0057_HFL_001-010a>
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h42
+    span:
+    - body
+    - 2220
+    - 2375
+  label: 丹陽繼韻¶<md:KR5e0057_HFL_001-010b>
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h43
+    span:
+    - body
+    - 2375
+    - 2425
+  label: 玉花洞
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h44
+    span:
+    - body
+    - 2425
+    - 2475
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h45
+    span:
+    - body
+    - 2475
+    - 2508
+  label: 無夢令
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h46
+    span:
+    - body
+    - 2508
+    - 2541
+  label: 丹陽次韻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ-jye_001-h47
+    span:
+    - body
+    - 2541
+    - 2541
+  label: 爇心香
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h1
+    span:
+    - body
+    - 0
+    - 66
+  label: 丹陽繼韻¶<md:KR5e0057_HFL_001-012a>
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h2
+    span:
+    - body
+    - 66
+    - 110
+  label: 黄鶴洞中仙
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h3
+    span:
+    - body
+    - 110
+    - 154
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h4
+    span:
+    - body
+    - 154
+    - 253
+  label: 黃河清
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h5
+    span:
+    - body
+    - 253
+    - 352
+  label: 丹陽次韻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h6
+    span:
+    - body
+    - 352
+    - 383
+  label: 憶王孫
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h7
+    span:
+    - body
+    - 383
+    - 414
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h8
+    span:
+    - body
+    - 414
+    - 472
+  label: 玉京山
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h9
+    span:
+    - body
+    - 472
+    - 530
+  label: 丹陽又韻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h10
+    span:
+    - body
+    - 530
+    - 609
+  label: 臨江仙
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h11
+    span:
+    - body
+    - 609
+    - 669
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h12
+    span:
+    - body
+    - 669
+    - 767
+  label: 黃河清(按一百八數)
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h13
+    span:
+    - body
+    - 767
+    - 865
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h14
+    span:
+    - body
+    - 865
+    - 925
+  label: 臨江仙
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h15
+    span:
+    - body
+    - 925
+    - 985
+  label: 丹陽次韻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h16
+    span:
+    - body
+    - 985
+    - 1041
+  label: 詩與丹陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h17
+    span:
+    - body
+    - 1041
+    - 1097
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h18
+    span:
+    - body
+    - 1097
+    - 1125
+  label: 絕句
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h19
+    span:
+    - body
+    - 1125
+    - 1153
+  label: 丹陽次韻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h20
+    span:
+    - body
+    - 1153
+    - 1209
+  label: 莫思鄕(贈丹陽)
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h21
+    span:
+    - body
+    - 1209
+    - 1266
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h22
+    span:
+    - body
+    - 1266
+    - 1294
+  label: 贈孫姑
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h23
+    span:
+    - body
+    - 1294
+    - 1354
+  label: 望蓬萊
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h24
+    span:
+    - body
+    - 1354
+    - 1501
+  label: 丹陽次韻¶<md:KR5e0057_HFL_002-006b>
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h25
+    span:
+    - body
+    - 1501
+    - 1557
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h26
+    span:
+    - body
+    - 1557
+    - 1613
+  label: 蘂珠宮
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h27
+    span:
+    - body
+    - 1613
+    - 1699
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h28
+    span:
+    - body
+    - 1699
+    - 1719
+  label: 贈丹陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h29
+    span:
+    - body
+    - 1719
+    - 1739
+  label: 丹陽繼韻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h30
+    span:
+    - body
+    - 1739
+    - 1808
+  label: 感皇恩
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h31
+    span:
+    - body
+    - 1808
+    - 1876
+  label: 丹陽次韻¶<md:KR5e0057_HFL_002-008b>
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h32
+    span:
+    - body
+    - 1876
+    - 1932
+  label: 報師恩
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h33
+    span:
+    - body
+    - 1932
+    - 1988
+  label: 丹陽次韻¶<md:KR5e0057_HFL_002-009a>
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h34
+    span:
+    - body
+    - 1988
+    - 2006
+  label: 贈丹陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h35
+    span:
+    - body
+    - 2006
+    - 2024
+  label: 丹陽次韻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h36
+    span:
+    - body
+    - 2024
+    - 2048
+  label: 誓丹陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h37
+    span:
+    - body
+    - 2048
+    - 2100
+  label: 悟南柯
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h38
+    span:
+    - body
+    - 2100
+    - 2152
+  label: 丹陽次韻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h39
+    span:
+    - body
+    - 2152
+    - 2180
+  label: 絕句
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h40
+    span:
+    - body
+    - 2180
+    - 2246
+  label: 玉堂春
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ-jye_002-h41
+    span:
+    - body
+    - 2246
+    - 2312
+  label: 丹陽繼韻
+  type: section
+  level: 2
+hash: sha256:ddda5e6c0b621f3eb1c4f7da4e23a257bb3a4d0ab393a233385d12dbb3d051fb

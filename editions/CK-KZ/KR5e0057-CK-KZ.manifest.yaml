@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR5e0057/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5e0057/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 重陽分梨十化集
+  date: '2015-08-29 02:11:11.088498'
+  source:
+    repository: kanripo
+    path: KR5e0057
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5e0057_000-CK-KZ.yaml, hash: 'sha256:ffb96e56c24ca824335fd958bdd7c6be8d608173248c7e6e74a704913380928c'}
+  - {seq: 1, filename: KR5e0057_001-CK-KZ.yaml, hash: 'sha256:8b0740a176d1a9b404e5df2b4d095302fe02f3896d3fa2b2c0986c4d9608d843'}
+  - {seq: 2, filename: KR5e0057_002-CK-KZ.yaml, hash: 'sha256:75b82347c64ca79f5570dfdbd76257da5801bed6b4bf362e8e80b6225aa1017c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5e0057_000-CK-KZ.markers.yaml, hash: 'sha256:a1753a88ef84d152e988324a71863ad8c8cb9f8c30cd005177519be38ca2f1b9'}
+  - {seq: 1, role: markers, filename: assets/KR5e0057_001-CK-KZ.markers.yaml, hash: 'sha256:e60ec71bd833fd72bbb5c64de8a10c5ea28fd290a85c5b2f500d5828ad07aec3'}
+  - {seq: 2, role: markers, filename: assets/KR5e0057_002-CK-KZ.markers.yaml, hash: 'sha256:7de409ca65b4a00b6086f7e29959ad7d49b05d576ff602e59d4fe9d98c3dc01e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5e0057_CK-KZ_01p020b
+    span:
+    - body
+    - 0
+    - 719
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5e0057_CK-KZ_01p003a
+    span:
+    - body
+    - 0
+    - 2725
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5e0057_CK-KZ_01p012a
+    span:
+    - body
+    - 0
+    - 2464
+  label: juan 002
+  type: section
+  level: 1
+hash: sha256:0986877749ed9825113f869bd9fc2125595c1ee519b202a6cd281229332ccb68
